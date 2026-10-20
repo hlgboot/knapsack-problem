@@ -1,0 +1,19 @@
+# Problema da Mochila - Instância Simples
+
+data;
+
+param W := 10;
+
+set N := 1 2 3 4;
+
+param v :=
+    1  10
+    2  20
+    3  15
+    4  25;
+
+param w :=
+    1   2
+    2   4
+    3   3
+    4   5;
